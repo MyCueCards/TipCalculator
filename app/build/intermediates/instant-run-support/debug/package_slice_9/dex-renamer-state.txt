@@ -1,0 +1,4 @@
+#Sun Jun 24 14:48:01 EDT 2018
+base.0=C\:\\murach\\android\\ex_starts\\ch06_ex2_TipCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
